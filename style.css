@@ -10,6 +10,10 @@
 }
 
 body{
+    width: 100svw;
+    height: 100svh;
+    overflow-x: hidden;
+    overflow-y: smooth;
     background-color: rgba(234, 237, 237, 0.797);
 }
 
